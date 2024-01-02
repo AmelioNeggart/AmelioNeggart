@@ -2,4 +2,4 @@
 - 👀 I’m interested in Python development, operational security, red teaming, and security research
 - 🌱 I’m currently learning about secure communication through encrypted networks, cryptography, and more
 - 💞️ I’m looking to collaborate on niche groups in my community with good knowledge surrounding scripting languages and DBMS
-- 📫 How to reach me kris2003@skiff.com
+- 📫 My Session: `05858bde3ec57f0b4848cd0c2553b890fd9b432b131f1567b88527700ad630c501`
